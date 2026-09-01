@@ -4,9 +4,6 @@ API REST simples de CRUD de **produtos**, feita em **Spring Boot**, com banco **
 conteinerizada e publicada no **Azure Container Registry (ACR)** e no
 **Azure Container Instances (ACI)**, com persistência em **Storage Account**.
 
-> ⚠️ Antes de começar: troque `RM000000` pelo RM real do representante do grupo em
-> `azure/00-variaveis.sh` (é o único lugar que precisa editar).
-
 ## Estrutura do projeto
 
 ```
