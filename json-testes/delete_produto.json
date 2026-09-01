@@ -1,0 +1,4 @@
+{
+  "_comentario": "DELETE /produtos/1 nao precisa de body, o id vai na URL. Este arquivo documenta qual id foi usado no teste.",
+  "id_removido": 1
+}

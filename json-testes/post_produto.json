@@ -1,0 +1,7 @@
+{
+  "_comentario": "Body usado no POST /produtos (cria um novo produto)",
+  "nome": "Teclado Mecanico",
+  "descricao": "Teclado mecanico ABNT2 RGB",
+  "preco": 250.90,
+  "quantidade": 15
+}

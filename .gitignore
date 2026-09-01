@@ -1,0 +1,9 @@
+# Nunca subir o arquivo com a senha real do banco
+azure/00-variaveis.sh
+
+# Arquivos de build do Maven
+app/target/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

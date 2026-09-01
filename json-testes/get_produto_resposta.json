@@ -1,0 +1,8 @@
+{
+  "_comentario": "GET nao envia corpo (body). Este JSON e um exemplo de RESPOSTA esperada ao chamar GET /produtos ou GET /produtos/1",
+  "id": 1,
+  "nome": "Teclado Mecanico",
+  "descricao": "Teclado mecanico ABNT2 RGB",
+  "preco": 250.90,
+  "quantidade": 15
+}

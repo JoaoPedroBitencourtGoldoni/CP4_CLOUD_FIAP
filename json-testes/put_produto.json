@@ -1,0 +1,7 @@
+{
+  "_comentario": "Body usado no PUT /produtos/1 (atualiza o produto de id 1)",
+  "nome": "Teclado Mecanico RGB",
+  "descricao": "Teclado mecanico ABNT2 RGB - preco promocional",
+  "preco": 199.90,
+  "quantidade": 20
+}
