@@ -1,6 +1,6 @@
-export RM="COLOQUE_SUA_SENHA_AQUI"                     
+export RM="rm561786"                     
 export LOCATION="eastus"
-export SENHA_MYSQL="Fiap2026Senha!"
+export SENHA_MYSQL="COLOQUE_SUA_SENHA_AQUI"
 
 export GRUPO_RECURSOS="rg-${RM}-container"
 export ACR_NOME="acr${RM}"                       
